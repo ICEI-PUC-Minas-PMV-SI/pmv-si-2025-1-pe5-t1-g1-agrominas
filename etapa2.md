@@ -14,3 +14,7 @@ Na etapa 2 foi visto como criar serviços em nuvem e em local. Será citado aqui
 ## Contolador de Domínio (AD)
 **Aluno**: Pedro Vinicius<br>
 
+# Nuvem 
+
+## Servidor FTP
+**Aluno**: Pedro Vinicius<br>
