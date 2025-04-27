@@ -41,3 +41,5 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 ## Organizar o template do pdf, para cara um colocar o que fez nele.
 **Aluno**: Samuel Lacerda<br>
 
+## Fazer correções solicitadas na ultima etapa(documento + cisco)
+**Aluno**: Bruno Tetzner<br>
