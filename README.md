@@ -11,8 +11,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Bruno de Lacerda Tetzner
+* Luigi Von Blücher Mezzogori
+* Pedro Vinicius Ribeiro Teixeira Justino
 * Samuel Lacerda Borges
 * Victor Alexandre Ferreira Santos
 * Vitor Alberto Gonçalves Cavaco
