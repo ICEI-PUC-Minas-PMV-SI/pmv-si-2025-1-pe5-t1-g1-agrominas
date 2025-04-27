@@ -1,6 +1,6 @@
 # Etapa 2 
 
-Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado nesse documento como o trabalho foi dividido, entre os membros do grupo, e os serviços criados, separados em duas categorias, on-premise e on-cloud.
+Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado nesse documento como o trabalho foi dividido, entre os membros do grupo e os serviços criados, separados em duas categorias: On-premise e on-cloud.
 
 # Local 
 
@@ -8,10 +8,10 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 **Aluno**: Vitor Alberto Gonçalves Cavaco <br> 
 
 ## Servidor DNS
-**Aluno**: Pedro Vinicius<br>
+**Aluno**: Pedro Vinicius Ribeiro Teixeira Justino<br>
 
 ## Controlador de Domínio (AD)
-**Aluno**: Pedro Vinicius<br>
+**Aluno**: Pedro Vinicius Ribeiro Teixeira Justino<br>
 
 # Nuvem 
 
@@ -25,7 +25,7 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 **Aluno**: Samuel Lacerda Borges<br> 
 
 ## Servidor FTP
-**Aluno**: Pedro Vinicius<br>
+**Aluno**: Pedro Vinicius Ribeiro Teixeira Justino<br>
 
 ## Backup
 **Aluno**: Luigi Mezzogori<br> 
