@@ -1,6 +1,7 @@
 # Etapa 2 
 
-Na etapa 2 foi visto como criar serviços em nuvem e em local. Será citado aqui neste documento as divisões de trabalho e os demais serviços criados separados por duas categorias on-premise, on-cloud
+Na etapa 2 foi visto como criar serviços em nuvem e localmente. <br> 
+Será citado nesse documento como o trabalho foi dividido, entre os membros do grupo, e os serviços criados, separados em duas categorias, on-premise e on-cloud.
 
 # Local 
 
@@ -15,6 +16,12 @@ Na etapa 2 foi visto como criar serviços em nuvem e em local. Será citado aqui
 
 # Nuvem 
 
+## Servidor Web
+**Aluno**: Samuel Lacerda Borges<br> 
+
+## Servidor de aplicação
+**Aluno**: Samuel Lacerda Borges<br> 
+
 ## Servidor FTP
 **Aluno**: Pedro Vinicius<br>
 
@@ -23,6 +30,9 @@ Na etapa 2 foi visto como criar serviços em nuvem e em local. Será citado aqui
 ## Edição Video
 **Aluno**: Victor<br>
 
-## Edição GitHub
-**Aluno**: Vitor Gonçalves e Pedro Vinicius<br>
+## Organizar o documento no github
+**Aluno**: Vitor Gonçalves, Pedro Vinicius e Samuel Lacerda<br>
+
+## Organizar o template do pdf, para cara um colocar o que fez nele.
+**Aluno**: Samuel Lacerda<br>
 
