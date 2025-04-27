@@ -38,7 +38,7 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 ## Organizar o documento no github
 **Aluno**: Vitor Gonçalves, Pedro Vinicius e Samuel Lacerda<br>
 
-## Organizar o template do pdf, para cara um colocar o que fez nele.
+## Organizar o template do pdf, para cada um colocar o que fez nele.
 **Aluno**: Samuel Lacerda<br>
 
 ## Fazer correções solicitadas na ultima etapa(documento + cisco)
