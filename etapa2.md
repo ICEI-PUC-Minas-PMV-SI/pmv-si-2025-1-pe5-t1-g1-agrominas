@@ -15,6 +15,9 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 
 # Nuvem 
 
+## Servidor de banco de dados
+**Aluno**: <br> 
+
 ## Servidor Web
 **Aluno**: Samuel Lacerda Borges<br> 
 
@@ -23,6 +26,9 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 
 ## Servidor FTP
 **Aluno**: Pedro Vinicius<br>
+
+## Backup
+**Aluno**: <br> 
 
 # Tarefas Complementares
 
