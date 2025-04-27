@@ -1,7 +1,7 @@
 # Etapa 2 
 
 Na etapa 2 foi visto como criar serviços em nuvem e localmente. <br> 
-Será citado nesse documento como o trabalho foi dividido, entre os membros do grupo, e os serviços criados, separados em duas categorias, on-premise e on-cloud.
+Será citado nesse documento como o trabalho foi dividido entre os membros do grupo, e os serviços criados, separados em duas categorias, on-premise e on-cloud.
 
 # Local 
 
