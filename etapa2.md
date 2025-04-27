@@ -28,7 +28,7 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 **Aluno**: Pedro Vinicius<br>
 
 ## Backup
-**Aluno**: <br> 
+**Aluno**: Luigi Mezzogori<br> 
 
 # Tarefas Complementares
 
