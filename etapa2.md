@@ -16,7 +16,7 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 # Nuvem 
 
 ## Servidor de banco de dados
-**Aluno**: <br> 
+**Aluno**: Victor Alexandre Ferreira Santos<br> 
 
 ## Servidor Web
 **Aluno**: Samuel Lacerda Borges<br> 
@@ -33,7 +33,7 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 # Tarefas Complementares
 
 ## Edição Video
-**Aluno**: Victor<br>
+**Aluno**: Victor Alexandre Ferreira Santos<br>
 
 ## Organizar o documento no github
 **Aluno**: Vitor Gonçalves, Pedro Vinicius e Samuel Lacerda<br>
