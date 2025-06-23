@@ -7,16 +7,20 @@ Etapa responsável pelo monitoramento via serviço Zabbix. Será citado nesse do
 
 **Aluno**: Bruno de Lacerda Tetzner
 
+## Backup
 **Aluno**: Luigi Von Blücher Mezzogori
 
 ## Servidor FTP
 **Aluno**: Pedro Vinicius Ribeiro Teixeira Justino 
 
-## Servidor DNS AD
+## Servidor DNS e AD
 **Aluno**: Pedro Vinicius Ribeiro Teixeira Justino
 
+## Servidor de banco de dados
 **Aluno**: Victor Alexandre Ferreira Santos 
- 
+
+## Servidor DHCP  
 **Aluno**: Vitor Gonçalves Alberto Cavaco
 
+## Servidor de aplicação e Servidor Web
 **Aluno**: Samuel Lacerda Borges
