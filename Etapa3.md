@@ -24,3 +24,6 @@ Etapa responsável pelo monitoramento via serviço Zabbix. Será citado nesse do
 
 ## Servidor de aplicação e Servidor Web
 **Aluno**: Samuel Lacerda Borges
+
+## Documentação
+**Aluno**: Bruno de Lacerda Tetzner
