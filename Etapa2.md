@@ -10,7 +10,7 @@ Na etapa 2 foi visto como criar serviços em nuvem e localmente. Será citado ne
 ## Servidor DNS
 **Aluno**: Pedro Vinicius Ribeiro Teixeira Justino<br>
 
-## Controlador de Domínio (AD)
+## Active Directory (AD)
 **Aluno**: Pedro Vinicius Ribeiro Teixeira Justino<br>
 
 # Nuvem 
